@@ -14,14 +14,20 @@ h1 {font-size: 40px;
 
 .sectionA{
     background-color:rgb(137, 121, 226);
-    width: 600px;
-    text-align: center ;
-    margin:auto;
-    height:600px;
-   padding:20px
+    
+   width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
 
 }
 .sectionA ol{
     text-align: center ;
 }
+hr {
+    height: 2px;
+    background-color: rgb(170, 45, 228);
+    border-color: rgb(170, 45, 228);}
    
