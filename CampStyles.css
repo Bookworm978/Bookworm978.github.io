@@ -1,0 +1,27 @@
+body {
+    background-image:url('sky.jpg')  ;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;}
+    
+    h1, h2,p { text-align: center;}
+
+.sectionA{
+    background-color:rgb(137, 121, 226);
+    width: 600px;
+    text-align: center ;
+    margin:auto;
+    height:600px;
+   padding:20px
+
+}
+.sectionA ol{
+    text-align: center ;
+}
+   
