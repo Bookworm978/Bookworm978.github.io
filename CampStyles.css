@@ -6,7 +6,7 @@ body {
     background-size: cover;
 }
 
-h1 {font-size: 40px;
+h1 {font-size: 70px;
     margin-top: 0;
     margin-bottom: 15px;}
     
@@ -16,11 +16,12 @@ h1 {font-size: 40px;
     background-color:rgb(137, 121, 226);
     
    width: 80%;
-  background-color: burlywood;
+  background-color: rgb(137, 121, 226);
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
+  font-size: 23px;
 
 }
 .sectionA ol{
@@ -28,6 +29,10 @@ h1 {font-size: 40px;
 }
 hr {
     height: 2px;
-    background-color: rgb(170, 45, 228);
-    border-color: rgb(170, 45, 228);}
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(244, 244, 244);
+}
+h2 {
+    font-size: 30px;
+}
    
